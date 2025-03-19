@@ -22,3 +22,7 @@ This project helps AtliQ Grands leverage business intelligence and data analytic
 * Analyzed average occupancy rate per city.
 * Analyzed revenue realized per city and revenue realized per hotel type.
 * Analyzed month by month revenue generated.
+  
+## Tools & Technologies Used
+
++ Programming Language: Python
