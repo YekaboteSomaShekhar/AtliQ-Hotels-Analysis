@@ -7,7 +7,7 @@ AtliQ Grands owns multiple five-star hotels across India. They have been in the 
 
 Their revenue management team had decided to hire a 3rd party service provider to provide them with insights from their historical data.
 
-# Objective
+## Objective
 
 The objective of this project is to analyze historical hotel booking data to improve occupancy rates, revenue growth, and market share for AtliQ Grands. Using Python (Pandas) in Jupyter Notebook, the project focuses on data cleaning, transformation, and analysis to derive actionable insights.
 This project helps AtliQ Grands leverage business intelligence and data analytics to regain its competitive edge in the hospitality industry.
