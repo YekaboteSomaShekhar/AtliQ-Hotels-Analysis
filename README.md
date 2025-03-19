@@ -25,6 +25,6 @@ This project helps AtliQ Grands leverage business intelligence and data analytic
   
 ## Tools & Technologies Used
 
-+ Programming Language: Python
++ Programming Language: **Python**
 + Integrated Development Environment(IDE): Jupyter Notebook
 + Library: Pandas (for data cleaning, transformation, and analysis) and Matplotlib(for data visualizations like bar charts, pie charts)
